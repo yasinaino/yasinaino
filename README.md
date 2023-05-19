@@ -1,2 +1,3 @@
-Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+### Hola, mi nombre es Yassine Ainous 👋
+Estudiante de Desarrollo de Aplicaciones Multiplataforma
+ 
