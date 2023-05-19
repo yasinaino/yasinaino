@@ -1,3 +1,3 @@
 <h1 align="center"> Hola, mi nombre es Yassine Ainous 👋
-Estudiante de Desarrollo de Aplicaciones Multiplataforma
+<h3 align="center"> Estudiante de Desarrollo de Aplicaciones Multiplataforma
  
