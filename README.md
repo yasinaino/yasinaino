@@ -1,5 +1,5 @@
-<h1 align="center"> Hola, mi nombre es Yassine Ainous 👋
-<h3 align="center"> Estudiante de Desarrollo de Aplicaciones Multiplataforma
+<h1 align="center"> Hola, mi nombre es Yassine Ainous 👋</h1>
+<h3 align="center"> Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
  
 - 🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma**
 
